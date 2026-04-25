@@ -12,6 +12,7 @@
   "dependencies": {
     "autoprefixer": "^10.5.0",
     "framer-motion": "^12.38.0",
+    "lottie-react": "^2.4.1",
     "postcss": "^8.5.10",
     "react": "^19.2.5",
     "react-dom": "^19.2.5",

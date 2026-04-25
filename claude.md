@@ -164,6 +164,50 @@ import { motion } from "framer-motion";
 </motion.div>
 ```
 
+🔹 Lottie
+
+Utilizado para:
+
+Animações mais complexas prontas
+Arquivos em formato .json
+Integração fácil com React
+
+Exemplo de uso:
+
+import Lottie from "lottie-react";
+import animation from "./animation.json";
+
+<Lottie animationData={animation} loop />
+📦 Recursos Visuais
+
+Para criação ou obtenção de animações:
+
+LottieFiles → animações prontas
+Storyset → ilustrações animáveis
+unDraw → ilustrações simples
+Icons8 → ícones e animações
+✨ Microinterações
+
+Pequenas animações que melhoram a experiência do usuário:
+
+Botões com efeito ao clicar
+Hover com leve aumento de escala
+Elementos aparecendo suavemente
+Feedback visual ao interagir
+
+Exemplo:
+
+<motion.div
+  whileHover={{ scale: 1.05 }}
+  whileTap={{ scale: 0.95 }}
+>
+🎬 Exemplos de Animações por Termo
+API → envio e retorno de mensagens
+Database → dados sendo armazenados e recuperados
+Login → cadeado abrindo após validação
+Cloud → arquivos subindo e descendo da nuvem
+Backend → engrenagens/processamento interno
+
 ---
 
 ## 📌 Diferencial do Projeto
