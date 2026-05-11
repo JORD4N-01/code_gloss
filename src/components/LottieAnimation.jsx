@@ -6,7 +6,7 @@ const LottieAnimation = ({ animationType, isPlaying }) => {
     switch (animationType) {
       case 'api':
         return (
-          <div className="relative w-full h-56 bg-gradient-to-br from-blue-50 via-blue-100 to-cyan-100 rounded-lg overflow-hidden">
+          <div className="relative w-full h-80 bg-gradient-to-br from-blue-50 via-blue-100 to-cyan-100 rounded-lg overflow-hidden">
             {/* Background grid effect */}
             <div className="absolute inset-0 opacity-10">
               <div className="absolute inset-0 bg-grid-pattern" style={{
@@ -132,7 +132,7 @@ const LottieAnimation = ({ animationType, isPlaying }) => {
 
       case 'database':
         return (
-          <div className="relative w-full h-56 bg-gradient-to-br from-purple-50 via-purple-100 to-indigo-100 rounded-lg overflow-hidden">
+          <div className="relative w-full h-80 bg-gradient-to-br from-purple-50 via-purple-100 to-indigo-100 rounded-lg overflow-hidden">
             {/* Background grid effect */}
             <div className="absolute inset-0 opacity-10">
               <div className="absolute inset-0 bg-grid-pattern" style={{
@@ -231,7 +231,7 @@ const LottieAnimation = ({ animationType, isPlaying }) => {
 
       case 'login':
         return (
-          <div className="relative w-full h-56 bg-gradient-to-br from-red-50 via-red-100 to-rose-100 rounded-lg overflow-hidden">
+          <div className="relative w-full h-80 bg-gradient-to-br from-red-50 via-red-100 to-rose-100 rounded-lg overflow-hidden">
             {/* Background grid effect */}
             <div className="absolute inset-0 opacity-10">
               <div className="absolute inset-0 bg-grid-pattern" style={{
@@ -437,7 +437,7 @@ const LottieAnimation = ({ animationType, isPlaying }) => {
 
       case 'cloud':
         return (
-          <div className="relative w-full h-56 bg-gradient-to-b from-sky-100 via-blue-100 to-blue-200 rounded-lg overflow-hidden">
+          <div className="relative w-full h-80 bg-gradient-to-b from-sky-100 via-blue-100 to-blue-200 rounded-lg overflow-hidden">
             {/* Background clouds */}
             <div className="absolute inset-0 opacity-20">
               <div className="absolute top-2 left-10 text-4xl opacity-50">☁️</div>
@@ -608,7 +608,7 @@ const LottieAnimation = ({ animationType, isPlaying }) => {
 
       case 'frontend':
         return (
-          <div className="relative w-full h-56 bg-gradient-to-br from-purple-50 via-pink-100 to-purple-100 rounded-lg overflow-hidden">
+          <div className="relative w-full h-80 bg-gradient-to-br from-purple-50 via-pink-100 to-purple-100 rounded-lg overflow-hidden">
             {/* Background grid */}
             <div className="absolute inset-0 opacity-10">
               <div className="absolute inset-0 bg-grid-pattern" style={{
@@ -754,7 +754,7 @@ const LottieAnimation = ({ animationType, isPlaying }) => {
 
       case 'backend':
         return (
-          <div className="relative w-full h-56 bg-gradient-to-br from-orange-50 via-amber-100 to-orange-100 rounded-lg overflow-hidden">
+          <div className="relative w-full h-80 bg-gradient-to-br from-orange-50 via-amber-100 to-orange-100 rounded-lg overflow-hidden">
             {/* Background grid */}
             <div className="absolute inset-0 opacity-10">
               <div className="absolute inset-0 bg-grid-pattern" style={{
@@ -925,7 +925,7 @@ const LottieAnimation = ({ animationType, isPlaying }) => {
 
       case 'framework':
         return (
-          <div className="relative w-full h-56 bg-gradient-to-br from-indigo-50 via-blue-100 to-purple-100 rounded-lg overflow-hidden">
+          <div className="relative w-full h-80 bg-gradient-to-br from-indigo-50 via-blue-100 to-purple-100 rounded-lg overflow-hidden">
             {/* Background grid */}
             <div className="absolute inset-0 opacity-10">
               <div className="absolute inset-0 bg-grid-pattern" style={{
@@ -1105,7 +1105,7 @@ const LottieAnimation = ({ animationType, isPlaying }) => {
 
       case 'git':
         return (
-          <div className="relative w-full h-56 bg-gradient-to-br from-orange-50 via-red-100 to-gray-100 rounded-lg overflow-hidden">
+          <div className="relative w-full h-80 bg-gradient-to-br from-orange-50 via-red-100 to-gray-100 rounded-lg overflow-hidden">
             {/* Background grid */}
             <div className="absolute inset-0 opacity-10">
               <div className="absolute inset-0 bg-grid-pattern" style={{
@@ -1279,7 +1279,7 @@ const LottieAnimation = ({ animationType, isPlaying }) => {
 
       case 'http':
         return (
-          <div className="relative w-full h-56 bg-gradient-to-br from-blue-50 via-cyan-100 to-teal-100 rounded-lg overflow-hidden">
+          <div className="relative w-full h-80 bg-gradient-to-br from-blue-50 via-cyan-100 to-teal-100 rounded-lg overflow-hidden">
             {/* Background grid */}
             <div className="absolute inset-0 opacity-10">
               <div className="absolute inset-0 bg-grid-pattern" style={{
@@ -1421,7 +1421,7 @@ const LottieAnimation = ({ animationType, isPlaying }) => {
 
       case 'json':
         return (
-          <div className="relative w-full h-56 bg-gradient-to-br from-gray-50 via-blue-50 to-indigo-100 rounded-lg overflow-hidden">
+          <div className="relative w-full h-80 bg-gradient-to-br from-gray-50 via-blue-50 to-indigo-100 rounded-lg overflow-hidden">
             {/* Background grid */}
             <div className="absolute inset-0 opacity-10">
               <div className="absolute inset-0 bg-grid-pattern" style={{
@@ -1518,7 +1518,7 @@ const LottieAnimation = ({ animationType, isPlaying }) => {
 
       case 'variable':
         return (
-          <div className="relative w-full h-56 bg-gradient-to-br from-yellow-50 via-amber-100 to-orange-100 rounded-lg overflow-hidden">
+          <div className="relative w-full h-80 bg-gradient-to-br from-yellow-50 via-amber-100 to-orange-100 rounded-lg overflow-hidden">
             {/* Background grid */}
             <div className="absolute inset-0 opacity-10">
               <div className="absolute inset-0 bg-grid-pattern" style={{
@@ -1669,7 +1669,7 @@ const LottieAnimation = ({ animationType, isPlaying }) => {
 
       case 'function':
         return (
-          <div className="relative w-full h-56 bg-gradient-to-br from-purple-50 via-fuchsia-100 to-pink-100 rounded-lg overflow-hidden">
+          <div className="relative w-full h-80 bg-gradient-to-br from-purple-50 via-fuchsia-100 to-pink-100 rounded-lg overflow-hidden">
             {/* Background grid */}
             <div className="absolute inset-0 opacity-10">
               <div className="absolute inset-0 bg-grid-pattern" style={{
