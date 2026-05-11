@@ -58,7 +58,7 @@ const Home = () => {
             whileHover={{ scale: 1.02 }}
             transition={{ duration: 0.3 }}
           >
-            📘 Glossário Interativo
+            📘 CODE GLOSS
           </motion.h1>
           <motion.p 
             className="text-lg md:text-xl text-gray-600 max-w-3xl mx-auto"

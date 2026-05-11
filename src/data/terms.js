@@ -42,7 +42,7 @@ export const terms = [
   {
     id: 6,
     name: "Backend",
-    easy: "É o cérebro do site que trabalha nos bastidores, processando informações e tomando decisões.",
+    easy: "O backend é como a cozinha de um restaurante: trabalha nos bastidores recebendo pedidos, organizando informações, processando dados e tomando decisões para que tudo funcione corretamente sem que o usuário veja.",
     medium: "Parte do sistema que roda no servidor, responsável pela lógica de negócios e processamento de dados.",
     hard: "Server-side da aplicação que implementa a lógica de negócios, regras de validação, processamento de dados, integração com bancos de dados e APIs, gerenciamento de autenticação/autorização e orchestration de serviços através de arquiteturas como REST, GraphQL ou microservices.",
     animation: "backend"
