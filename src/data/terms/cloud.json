@@ -1,0 +1,8 @@
+{
+  "id": 4,
+  "name": "Cloud",
+  "easy": "É como guardar seus arquivos na internet em vez de no seu computador, podendo acessar de qualquer lugar.",
+  "medium": "Infraestrutura de computação remota que oferece serviços de armazenamento, processamento e hospedagem via internet.",
+  "hard": "Modelo de entrega de recursos computacionais (servidores, storage, networking, software) através da internet, implementado através de data centers globais com escalabilidade elástica, pagamento por uso e alta disponibilidade.",
+  "animation": "cloud"
+}

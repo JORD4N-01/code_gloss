@@ -1,0 +1,8 @@
+{
+  "id": 5,
+  "name": "Frontend",
+  "easy": "É tudo o que você vê e clica em um site ou aplicativo - a parte bonita e interativa.",
+  "medium": "Camada de apresentação de uma aplicação que interage diretamente com o usuário através de interfaces visuais.",
+  "hard": "Client-side da aplicação web responsável pela renderização da interface do usuário, manipulação do DOM, gerenciamento de estado local e comunicação com APIs backend, implementado através de tecnologias como HTML, CSS, JavaScript e frameworks modernos.",
+  "animation": "frontend"
+}

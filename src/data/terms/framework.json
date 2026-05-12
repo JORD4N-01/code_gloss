@@ -1,0 +1,8 @@
+{
+  "id": 7,
+  "name": "Framework",
+  "easy": "É como um kit de montagem com peças prontas que ajudam a construir coisas mais rápido.",
+  "medium": "Estrutura de software que fornece funcionalidades prontas e padrões para facilitar o desenvolvimento.",
+  "hard": "Conjunto de bibliotecas, ferramentas e convenções que estabelecem uma arquitetura base para desenvolvimento de aplicações, fornecendo Inversion of Control (IoC), padrões de projeto estruturados e abstrações que aceleram o desenvolvimento e promovem consistência.",
+  "animation": "framework"
+}

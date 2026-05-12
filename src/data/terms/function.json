@@ -1,0 +1,8 @@
+{
+  "id": 12,
+  "name": "Function",
+  "easy": "É como uma receita pronta que faz uma tarefa específica sempre que chamamos.",
+  "medium": "Bloco de código reutilizável que executa uma tarefa específica e pode retornar um resultado.",
+  "hard": "Unidade fundamental de programação que encapsula um conjunto de instruções com nome definido, parâmetros de entrada, corpo executável e valor de retorno, implementando conceitos de abstração, reuso e modularidade através de invocação com passagem de argumentos e gerenciamento de escopo.",
+  "animation": "function"
+}

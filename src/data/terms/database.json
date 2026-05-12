@@ -1,0 +1,8 @@
+{
+  "id": 2,
+  "name": "Database",
+  "easy": "É como uma biblioteca gigante onde guardamos e encontramos informações organizadas.",
+  "medium": "Sistema organizado para armazenar, gerenciar e recuperar dados de forma eficiente.",
+  "hard": "Coleção estruturada de dados persistentes gerenciada por um Sistema de Gerenciamento de Banco de Dados (SGBD), que oferece operações CRUD (Create, Read, Update, Delete) através de linguagens de consulta como SQL.",
+  "animation": "database"
+}

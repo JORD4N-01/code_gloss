@@ -1,0 +1,8 @@
+{
+  "id": 11,
+  "name": "Variable",
+  "easy": "É como uma caixinha com etiqueta onde guardamos informações para usar depois.",
+  "medium": "Espaço na memória com nome identificador que armazena um valor que pode ser modificado durante a execução.",
+  "hard": "Abstração de memória que associa um identificador simbólico a um endereço de memória ou valor, permitindo armazenamento e recuperação de dados durante a execução do programa, com tipos definidos (estáticos ou dinâmicos) e escopo determinado por regras de visibilidade.",
+  "animation": "variable"
+}

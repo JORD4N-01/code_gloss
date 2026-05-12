@@ -1,0 +1,8 @@
+{
+  "id": 9,
+  "name": "HTTP",
+  "easy": "É o idioma que os navegadores usam para conversar com os sites na internet.",
+  "medium": "Protocolo de comunicação que define como as informações são transferidas na web.",
+  "hard": "Hypertext Transfer Protocol, protocolo da camada de aplicação do modelo TCP/IP que define métodos (GET, POST, PUT, DELETE), códigos de status, headers e formato de mensagens para comunicação cliente-servidor na World Wide Web, sendo a base da comunicação web.",
+  "animation": "http"
+}

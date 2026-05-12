@@ -1,0 +1,8 @@
+{
+  "id": 8,
+  "name": "Git",
+  "easy": "É como uma máquina do tempo para seu código, guardando todas as versões e mudanças.",
+  "medium": "Sistema de controle de versão que rastreia mudanças no código ao longo do tempo.",
+  "hard": "Sistema distribuído de controle de versão que implementa branching, merging, versionamento e colaboração através de repositórios locais e remotos, utilizando um grafo acíclico direcionado (DAG) para rastrear commits e facilitar desenvolvimento paralelo e histórico completo.",
+  "animation": "git"
+}

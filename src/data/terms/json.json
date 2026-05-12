@@ -1,0 +1,8 @@
+{
+  "id": 10,
+  "name": "JSON",
+  "easy": "É como uma forma organizada de escrever informações que os computadores entendem facilmente.",
+  "medium": "Formato leve de troca de dados que usa estrutura de chave-valor, fácil de ler e escrever.",
+  "hard": "JavaScript Object Notation, formato de serialização de dados baseado em texto que utiliza sintaxe de objetos JavaScript para representar estruturas de dados complexas através de pares chave-valor e arrays, sendo independente de linguagem e amplamente utilizado em APIs web.",
+  "animation": "json"
+}

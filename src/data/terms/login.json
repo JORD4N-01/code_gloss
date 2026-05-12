@@ -1,0 +1,8 @@
+{
+  "id": 3,
+  "name": "Login",
+  "easy": "É como mostrar sua identidade para entrar em um lugar seguro, usando uma chave e senha.",
+  "medium": "Processo de autenticação que verifica a identidade do usuário para permitir acesso a sistemas protegidos.",
+  "hard": "Mecanismo de segurança que implementa autenticação através de credenciais (username/password), tokens, ou fatores múltiplos, validando a identidade do usuário contra um sistema de autorização antes de conceder acesso aos recursos protegidos.",
+  "animation": "login"
+}

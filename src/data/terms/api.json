@@ -1,0 +1,8 @@
+{
+  "id": 1,
+  "name": "API",
+  "easy": "É como um mensageiro que leva pedidos e traz respostas entre diferentes sistemas.",
+  "medium": "Interface de Programação de Aplicação que permite comunicação entre sistemas de software.",
+  "hard": "Conjunto de regras, protocolos e ferramentas que definem como os componentes de software devem interagir, permitindo a integração entre diferentes aplicações através de chamadas padronizadas.",
+  "animation": "api"
+}
